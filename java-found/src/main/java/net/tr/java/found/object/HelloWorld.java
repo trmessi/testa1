@@ -8,6 +8,11 @@ package net.tr.java.found.object;
  * @since JDK8
  */
 public class HelloWorld {
+    /**
+     * 程序入口
+     * 程序从main开始
+     * @param args ss
+     */
     public static void main(String[] args) {
         System.out.println("Hello world with win11 & JDK8");
     }
